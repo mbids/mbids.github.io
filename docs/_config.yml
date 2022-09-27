@@ -33,7 +33,7 @@ github_username:  mbids
 
 # Build settings
 # theme: tactile 
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: StartBootstrap/freelancer-jekyll
 
 plugins:
   - jekyll-feed
