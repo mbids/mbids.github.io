@@ -1,3 +1,8 @@
+layout: post
+title: "Deploying to Function Apps from GitHub with OIDC"
+date: 2022-09-27 10:07:00 -0000
+categories: CATEGORY-1 CATEGORY-2
+
 **What is OIDC?**
 
 
