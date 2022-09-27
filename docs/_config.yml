@@ -32,7 +32,7 @@ github_username:  mbids
 
 
 # Build settings
-theme: tactile 
+theme: minima 
 # remote_theme: StartBootstrap/freelancer-jekyll
 
 plugins:
