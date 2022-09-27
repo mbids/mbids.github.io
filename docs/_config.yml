@@ -32,7 +32,7 @@ github_username:  mbids
 
 
 # Build settings
-theme: minima
+theme: tactile 
 plugins:
   - jekyll-feed
 
